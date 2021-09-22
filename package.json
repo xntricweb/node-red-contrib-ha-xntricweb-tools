@@ -1,5 +1,5 @@
 {
-  "name": "red-contrib-ha-xntricweb-tools",
+  "name": "node-red-contrib-ha-xntricweb-tools",
   "version": "1.0.0",
   "description": "A collection of tools to help node red work with home assistant.",
   "main": "src/index.js",
