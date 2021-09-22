@@ -1,0 +1,19 @@
+{
+  "name": "red-contrib-ha-xntricweb-tools",
+  "version": "1.0.0",
+  "description": "A collection of tools to help node red work with home assistant.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xntricweb/node-red-contrib-ha-xntricweb-tools.git"
+  },
+  "author": "xntricweb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xntricweb/node-red-contrib-ha-xntricweb-tools/issues"
+  },
+  "homepage": "https://github.com/xntricweb/node-red-contrib-ha-xntricweb-tools#readme"
+}
